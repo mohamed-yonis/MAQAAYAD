@@ -1,0 +1,1 @@
+var btn=document.getElementById("btn").onclick("Oder is successfull")
